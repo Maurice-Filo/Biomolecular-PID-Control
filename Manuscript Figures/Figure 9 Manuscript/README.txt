@@ -4,6 +4,8 @@
 
 # Software Requirements
  - MATLAB R2016a (academic use) or above (Tested on R2016a and R2018a)
+ - The following MATLAB function is used:
+        Rob Campbell (2022). raacampbell/shadedErrorBar (https://github.com/raacampbell/shadedErrorBar), GithHub. Retrieved March 21, 2022.
 
 # Instructions
  - Run "sample_analysis_plot.m" script in MATLAB environment 
